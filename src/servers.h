@@ -1,6 +1,6 @@
 //Wi-Fi Configuration
-const char* ssid   = "Grobotronics_IoT";
-const char* pass   = "grobotronics!!!";
+const char* ssid   = "replace me";
+const char* pass   = "replace me";
 //**********************************************************
 
 String inputParam;
